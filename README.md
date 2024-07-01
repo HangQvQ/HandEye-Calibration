@@ -1,6 +1,9 @@
 # handeye_calibration
 This repository uses OpenCV and chessboard for hand-eye calibration of RealSense camera and robot.
-<img src="handeye_img/img/img1.png" alt="example" width="300" height="300">
+<div style="display: flex; justify-content: center; align-items: center">
+    <img src="handeye_img_pose/img/img1.png" alt="example" width="320" height="240">
+</div>
+
 ## Setup
 - Install dependences
     ```
