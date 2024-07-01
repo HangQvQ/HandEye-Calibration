@@ -1,6 +1,6 @@
 # handeye_calibration
 This repository uses OpenCV and chessboard for hand-eye calibration of RealSense camera and robot.
-
+<img src="handeye_img/img/img1.png" alt="example" width="300" height="300">
 ## Setup
 - Install dependences
     ```
@@ -24,6 +24,7 @@ This repository uses OpenCV and chessboard for hand-eye calibration of RealSense
     Press 's' to store one image and pose. Keep the chessboard fully visible to the camera, changing its position and orientation each time. Press 'q' to finish capturing. Examples are saved in [handeye_img_pose/img](handeye_img_pose/img/).
 
 - step 2. run calibration
+
     Change the sizes according to your chessboard in run_calibaration.py
     ```
     python run_calibaration.py
