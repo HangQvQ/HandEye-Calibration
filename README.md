@@ -32,6 +32,6 @@ This repository uses OpenCV and chessboard for hand-eye calibration of RealSense
     ```
     python run_calibaration.py
     ```
-    return cam2base if eye to hand
+    return camera to base matrix if eye to hand
 
-    return cam2gripper if eye in hand
+    return camera to gripper matrix if eye in hand
